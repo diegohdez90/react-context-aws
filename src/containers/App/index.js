@@ -34,7 +34,7 @@ class App extends Component {
               <UserCreate />
             </ColorContext.Provider>
           </LanguageStore>
-        </div>        
+        </div>
         <Button onClick={this.props.signOut}>Sign Out</Button>
       </View>
     );
