@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "reactcontextaws1e2c5415": {}
+      },
+      "api": {
+        "reactcontextaws": {}
       }
     }
   }
